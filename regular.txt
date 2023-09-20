@@ -1,2 +1,3 @@
-This is a regular text file
+This is a regular text FilE
 another line from terminal
+something was added
