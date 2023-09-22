@@ -3,5 +3,5 @@ another line from terminal
 something was added
 Adding some text for further demo
 
-
+I dont care if there is a conflict.
 Lets add some text on line 7
