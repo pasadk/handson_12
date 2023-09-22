@@ -2,3 +2,6 @@ This is a regular text FilE
 another line from terminal
 something was added
 Adding some text for further demo
+
+
+Lets add some text on line 7
